@@ -73,4 +73,4 @@ With Account Abstraction:
 
 ## 🧑‍💻 Author
 
-Written by a technical writer with 10 years of experience, making Web3 simple enough for a 10-year-old to understand.
+Written by a technical writer with some years of experience, making Web3 simple enough for a 10-year-old to understand.
